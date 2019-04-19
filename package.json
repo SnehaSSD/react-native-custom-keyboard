@@ -1,0 +1,23 @@
+{
+  "name": "react-native-custom-keyboard",
+  "version": "1.0.0",
+  "description": "Library to create UI in react native and hook up to native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Sneha Shinde",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "0.57.0",
+    "react-native-windows": "0.57.1"
+  },
+  "dependencies": {
+    "react": "16.5.0",
+    "react-native": "0.57.0",
+    "react-native-windows": "^0.57.1"
+  }
+}
